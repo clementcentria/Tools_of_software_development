@@ -19,8 +19,5 @@ Toilet paper
 Toothpaste
 Shampoo
 Laundry detergent
-<<<<<<< Updated upstream
 Dish soap
-=======
 more chicken
->>>>>>> Stashed changes
